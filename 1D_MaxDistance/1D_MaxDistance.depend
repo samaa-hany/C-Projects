@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636650625 source:d:\1d_maxdistance\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636888282 source:d:\1_employee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gotoxy.h>
+	<textattr.h>
+

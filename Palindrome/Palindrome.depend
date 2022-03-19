@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637139995 source:d:\iti_labs\c_labs\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

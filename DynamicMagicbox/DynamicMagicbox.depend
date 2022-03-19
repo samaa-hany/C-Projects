@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636541905 source:d:\dynamicmagicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gotoxy.h>
+

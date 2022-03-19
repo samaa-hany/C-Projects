@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637012344 source:d:\iti_labs\c_labs\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gotoxy.h>
+	<textattr.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636651548 source:d:\2d_product2\main.c
+	<stdio.h>
+	<stdlib.h>
+

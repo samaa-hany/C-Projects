@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637232623 source:d:\iti_labs\c_labs\struct_miltiline\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gotoxy.h>
+	<textattr.h>
+	<string.h>
+	<conio.h>
+

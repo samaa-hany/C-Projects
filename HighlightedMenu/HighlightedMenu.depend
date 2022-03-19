@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636805310 source:d:\highlightedmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<textattr.h>
+	<gotoxy.h>
+
